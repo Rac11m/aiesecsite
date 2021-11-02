@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aiesecsite/static/css/main.a617e044.chunk.css",
+    "main.js": "/aiesecsite/static/js/main.a7a2a926.chunk.js",
+    "main.js.map": "/aiesecsite/static/js/main.a7a2a926.chunk.js.map",
+    "runtime-main.js": "/aiesecsite/static/js/runtime-main.b6666a27.js",
+    "runtime-main.js.map": "/aiesecsite/static/js/runtime-main.b6666a27.js.map",
+    "static/js/2.0f4cb654.chunk.js": "/aiesecsite/static/js/2.0f4cb654.chunk.js",
+    "static/js/2.0f4cb654.chunk.js.map": "/aiesecsite/static/js/2.0f4cb654.chunk.js.map",
+    "static/js/3.68b21415.chunk.js": "/aiesecsite/static/js/3.68b21415.chunk.js",
+    "static/js/3.68b21415.chunk.js.map": "/aiesecsite/static/js/3.68b21415.chunk.js.map",
+    "index.html": "/aiesecsite/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/aiesecsite/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0f4cb654.chunk.js.LICENSE.txt": "/aiesecsite/static/js/2.0f4cb654.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aiesecsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6666a27.js",
+    "static/js/2.0f4cb654.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a7a2a926.chunk.js"
+  ]
+}
