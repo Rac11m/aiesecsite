@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aiesecsite/static/css/main.3ea80993.chunk.css",
-    "main.js": "/aiesecsite/static/js/main.c826f8db.chunk.js",
-    "main.js.map": "/aiesecsite/static/js/main.c826f8db.chunk.js.map",
+    "main.js": "/aiesecsite/static/js/main.2c925dd7.chunk.js",
+    "main.js.map": "/aiesecsite/static/js/main.2c925dd7.chunk.js.map",
     "runtime-main.js": "/aiesecsite/static/js/runtime-main.f079d5c0.js",
     "runtime-main.js.map": "/aiesecsite/static/js/runtime-main.f079d5c0.js.map",
     "static/css/2.0a9ec390.chunk.css": "/aiesecsite/static/css/2.0a9ec390.chunk.css",
@@ -51,6 +51,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.22c91497.chunk.js",
     "static/css/main.3ea80993.chunk.css",
-    "static/js/main.c826f8db.chunk.js"
+    "static/js/main.2c925dd7.chunk.js"
   ]
 }
